@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是 [你的名字]</h1>
+<h1 align="center">👋 你好</h1>
 <h3 align="center">🤖 人工智能技术应用专业 大一新生 | 前端入门选手 → Java 筑基中</h3>
 <h3 align="center">🤖 AI Application Technology Freshman | Front-end Rookie → Java Builder</h3>
 
