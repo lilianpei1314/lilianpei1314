@@ -24,11 +24,11 @@
 
 | 领域 / Area | 技术 / Tech | 熟练度 / Level |
 | :--- | :--- | :--- |
-| **前端 / Front-end** | Vue 2/3, Vue Router, Axios, HTML5, CSS3, JavaScript | 🌱 入门（能写，会调） |
+| **前端 / Front-end** | Vue 3, Vue Router, Axios, HTML5, CSS3, JavaScript | 🌱 入门（能写，会调） |
 | **后端（进行中） / Backend (WIP)** | Java (基础语法学习中) | 📖 正在筑基 |
 | **数据库 / Database** | MySQL (简单 CRUD) | 🌱 了解基础 |
 | **AI 基础 / AI Basics** | Python, 基础数据结构 | 📖 入门阶段 |
-| **工具 / Tools** | Git, GitHub, VS Code, IntelliJ IDEA | ✅ 日常使用 |
+| **工具 / Tools** | Git, GitHub, VS Code, IntelliJ IDEA，Trae，SpringToolSuite4 | ✅ 日常使用 |
 
 > 标签速览 / Quick Badges：  
 > <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
